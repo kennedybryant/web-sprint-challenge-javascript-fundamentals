@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
+// Because nestedFunction is inside of the same function that the variable internal is defined in, it is within nestedFunction's scope.
 
 
 
